@@ -1,6 +1,7 @@
 {
   "name": "goofyahhproject",
   "version": "1.0.0",
+  "heroku-postbuild": "npm run build"
   "description": "",
   "main": "index.js",
   "scripts": {
