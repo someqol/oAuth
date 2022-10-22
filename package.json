@@ -1,9 +1,6 @@
 {
   "name": "goofyahhproject",
   "version": "1.0.0",
-  "engines": {
-   "node": "12.11.1"
-   }
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +8,9 @@
     "start": "node index.js",
     "run": "node index.js"
   },
+  "engines": {
+   "node": "12.11.1"
+   },
   "keywords": [],
   "author": "",
   "license": "ISC",
