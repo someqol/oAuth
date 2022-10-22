@@ -42,7 +42,6 @@ app.get('/', async (req, res) => {
 app.listen(port, () => {
     console.log(`Started the server on ${port}`)
 })
-console.log(heroku run printenv)
 
 async function getAccessTokenAndRefreshToken(code) {
     const url = 'https://login.live.com/oauth20_token.srf'
